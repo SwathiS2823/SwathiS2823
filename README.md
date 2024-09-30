@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning Java<br>I am GEN AI enthusiastic person
+I am  a Java beginner<br>I am a GEN AI enthusiast 
 
 
 ## 🌐 Socials:
